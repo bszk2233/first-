@@ -1,0 +1,5 @@
+MorseCode   KEYWORD1
+dot         KEYWORD2
+dash        KEYWORD2
+divid       KEYWORD2
+space       KEYWORD2
